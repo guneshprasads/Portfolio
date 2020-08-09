@@ -1,2 +1,2 @@
 # Portfolio
-Web application using Django
+A personal web applicaition where you can upload your projects.
